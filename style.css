@@ -1,0 +1,14 @@
+li {
+  display: inline;
+}
+
+.flex-container {
+  background-color: blue;
+  display: flex;
+}
+.flex-container > div {
+  background-color: cornsilk;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
